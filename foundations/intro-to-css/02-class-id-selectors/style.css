@@ -1,0 +1,21 @@
+/* Styles for exercise 02 */
+
+.imaclass {
+    background-color: #e75858;
+    font-family: "Verdana, DejaVu Sans, sans-serif";
+}
+
+.imaclass.cooler{
+    font-size: 24px;
+}
+
+#imid1{
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+#imid2{
+    background-color: hsl(118, 76%, 68%);
+    font-size: 24px;
+    font-weight: bold;
+}
