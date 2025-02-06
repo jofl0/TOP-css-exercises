@@ -1,0 +1,15 @@
+/* CSS Stylesheet for Exercise 03 */
+.button{
+font-size: 28px;
+font-family: "Helvetica, Times New Roman, sans-serif";
+}
+
+.button.yellow{
+    background-color: #FFFF00;
+}
+
+.button.black{
+    background-color: #000000;
+    color: #FFFFFF; 
+    font-weight: 700;
+}
