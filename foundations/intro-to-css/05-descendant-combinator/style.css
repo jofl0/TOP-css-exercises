@@ -1,0 +1,7 @@
+/* CSS stylesheet for Exercise 05 */
+.container .text{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    size: 20px;
+}
